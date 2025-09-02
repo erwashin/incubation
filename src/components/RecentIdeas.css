@@ -1,0 +1,19 @@
+.idea-list {
+  margin: 24px 0;
+}
+.idea-item {
+  background: #f6f8fa;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.status-badge {
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 0.9rem;
+  color: #fff;
+  background: #61dafb;
+}

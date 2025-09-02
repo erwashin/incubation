@@ -1,0 +1,31 @@
+.status-tracking {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f0f4f8;
+  border-radius: 8px;
+}
+
+.project-status {
+  margin-bottom: 20px;
+}
+
+.project-info {
+  margin-bottom: 8px;
+  font-size: 1em;
+}
+
+.progress-bar {
+  background-color: #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  height: 24px;
+}
+
+.progress-fill {
+  background-color: #007BFF;
+  color: white;
+  text-align: center;
+  height: 100%;
+  line-height: 24px;
+  font-size: 0.9em;
+}

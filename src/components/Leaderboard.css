@@ -1,0 +1,13 @@
+.leaderboard {
+  margin: 24px 0;
+}
+.leaderboard-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+}
+.points {
+  font-weight: bold;
+  color: #23272f;
+}

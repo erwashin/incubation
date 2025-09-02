@@ -1,0 +1,26 @@
+.recent-ideas {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f4f6f8;
+  border-radius: 8px;
+}
+
+.idea-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.idea-card {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 6px;
+  width: 250px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.idea-card h3 {
+  margin-top: 0;
+  font-size: 1.1em;
+}

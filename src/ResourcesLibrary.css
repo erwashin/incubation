@@ -1,0 +1,29 @@
+.resources-library {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f7f9fc;
+  border-radius: 8px;
+}
+
+.resources-library h2 {
+  margin-bottom: 15px;
+}
+
+.resources-library ul {
+  list-style: none;
+  padding: 0;
+}
+
+.resources-library li {
+  margin-bottom: 10px;
+}
+
+.resources-library a {
+  text-decoration: none;
+  color: #007BFF;
+  font-weight: 500;
+}
+
+.resources-library a:hover {
+  text-decoration: underline;
+}

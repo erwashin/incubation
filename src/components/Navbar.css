@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #23272f;
+  padding: 16px 32px;
+  color: #fff;
+}
+.nav-tabs {
+  display: flex;
+  gap: 24px;
+}
+.nav-tab {
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 6px;
+  transition: background 0.2s;
+}
+.nav-tab:hover {
+  background: #61dafb;
+  color: #23272f;
+}
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.profile-img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}.nav-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
