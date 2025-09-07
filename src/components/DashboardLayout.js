@@ -4,7 +4,9 @@ import './DashboardLayout.css';
 function DashboardLayout({ children }) {
   return (
     <div className="dashboard-layout">
-      {children}
+      <div className="dashboard-container">
+        {children}
+      </div>
     </div>
   );
 }
