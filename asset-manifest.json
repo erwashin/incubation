@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/incubation/static/css/main.fd9ebec8.css",
-    "main.js": "/incubation/static/js/main.0b023d5a.js",
-    "index.html": "/incubation/index.html",
-    "main.fd9ebec8.css.map": "/incubation/static/css/main.fd9ebec8.css.map",
-    "main.0b023d5a.js.map": "/incubation/static/js/main.0b023d5a.js.map"
+    "main.css": "/ewashing/AppliedInnovationTeam/static/css/main.fd9ebec8.css",
+    "main.js": "/ewashing/AppliedInnovationTeam/static/js/main.0b023d5a.js",
+    "index.html": "/ewashing/AppliedInnovationTeam/index.html",
+    "main.fd9ebec8.css.map": "/ewashing/AppliedInnovationTeam/static/css/main.fd9ebec8.css.map",
+    "main.0b023d5a.js.map": "/ewashing/AppliedInnovationTeam/static/js/main.0b023d5a.js.map"
   },
   "entrypoints": [
     "static/css/main.fd9ebec8.css",
