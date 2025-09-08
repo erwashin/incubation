@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/incubation/static/css/main.fd9ebec8.css",
-    "main.js": "/incubation/static/js/main.647055f9.js",
+    "main.js": "/incubation/static/js/main.d9bbe820.js",
     "index.html": "/incubation/index.html",
     "main.fd9ebec8.css.map": "/incubation/static/css/main.fd9ebec8.css.map",
-    "main.647055f9.js.map": "/incubation/static/js/main.647055f9.js.map"
+    "main.d9bbe820.js.map": "/incubation/static/js/main.d9bbe820.js.map"
   },
   "entrypoints": [
     "static/css/main.fd9ebec8.css",
-    "static/js/main.647055f9.js"
+    "static/js/main.d9bbe820.js"
   ]
 }
